@@ -9,6 +9,10 @@ The Interactive Data Visualization App is a web application that allows users to
 - **Real-Time Updates**: Charts update dynamically as data changes, providing real-time insights.
 - **Customization Options**: Users can customize chart types, colors, and labels to suit their preferences.
 
+<img width="1379" alt="Screenshot 2024-04-30 at 1 28 35 PM" src="https://github.com/shuddha2021/Interactive-Data-Visualization-App/assets/81951239/49dadfdc-32c3-43b0-bf16-17d17ecc3787">
+
+<img width="1149" alt="Screenshot 2024-04-30 at 1 31 35 PM" src="https://github.com/shuddha2021/Interactive-Data-Visualization-App/assets/81951239/f2e993ea-977d-43e9-b387-cf730beb9c51">
+
 ## Core Logic
 
 The core logic of the application revolves around the Chart.js library. Key components include:
